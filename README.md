@@ -1,3 +1,3 @@
-This is the README file for the repo 'CS1110.' README files are the first file you should create in a repo, and give a short description of what the repo is.
+#This is the README file for the repo 'python_friends', which is a very cool group of endlessly intelligent people. 
 
-STEPFANIE CAN U SEE THIS??????
+###We'll deposit cool python learning that we've done here, and also practice branching and pulling.
